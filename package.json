@@ -1,0 +1,16 @@
+{
+  "name": "scaper",
+  "description": "A cnn article scraper thing",
+  "version": "0.0.1",
+  "private": false,
+  "author": "Mike Zhang",
+  "repository": {
+    "type": "git"
+  },
+  "dependencies": {
+    "cheerio": "latest",
+    "request": "latest",
+    "express": "latest",
+    "mustache": "latest"
+  }
+}
